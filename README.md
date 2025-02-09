@@ -1,4 +1,4 @@
-## Olá sou o Alehandro Ferreira! Bem vindo ao meu perfil no github!
+## Olá sou o Alehandro Ferreira! Bem vindo ao meu perfil!
 
 <div align="center">
   <a href="https://github.com/alehandroferreira">
